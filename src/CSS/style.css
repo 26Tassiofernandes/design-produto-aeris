@@ -1,0 +1,25 @@
+html, body {
+  overflow-x: hidden;
+}
+
+.poppins-medium {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+body {
+  background-color: #000000;
+}
+
+#secao-faq h3 {
+  color: white;
+  font-family: "Poppins", sans-serif;
+  font-weight: normal;
+
+}
+
+#secao-faq p {
+  font-family: "Poppins", sans-serif;
+  font-weight: normal;
+}
